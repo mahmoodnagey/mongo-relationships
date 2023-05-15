@@ -1,0 +1,22 @@
+{
+  "name": "mongo-relationships",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahmoodnagey/mongo-relationships.git"
+  },
+  "author": "Mahmoud Nagy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahmoodnagey/mongo-relationships/issues"
+  },
+  "homepage": "https://github.com/mahmoodnagey/mongo-relationships#readme",
+  "dependencies": {
+    "mongoose": "^7.1.1"
+  }
+}
